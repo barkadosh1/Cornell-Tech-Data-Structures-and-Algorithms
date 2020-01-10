@@ -2,7 +2,7 @@
 
 Below are a few projects I worked on as a student in Cornell Tech's Data Structures and Algorithms course. 
 
-### Topic 1
+### String Diffing and Respacing Using Dynamic Programming
 
 - Code
 
