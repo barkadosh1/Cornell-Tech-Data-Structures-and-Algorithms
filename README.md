@@ -14,7 +14,7 @@ We implemented a directed graph using two different data structures:
 - [graph_adjacency_list.py](https://github.com/barkadosh1/Cornell-Tech-Data-Structures-and-Algorithms/blob/master/graph_adjacency_list.py)
 - [graph_edge_list.py](https://github.com/barkadosh1/Cornell-Tech-Data-Structures-and-Algorithms/blob/master/graph_edge_list.py)
 
-We then implemented Dijkstra's algorithm so that it will work correctly with either data graph data structure:
+We then implemented Dijkstra's algorithm so that it will work correctly with either graph data structure:
 
 - [shortest_path.py](https://github.com/barkadosh1/Cornell-Tech-Data-Structures-and-Algorithms/blob/master/shortest_path.py)
 
