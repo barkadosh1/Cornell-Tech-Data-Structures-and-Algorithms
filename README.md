@@ -4,7 +4,8 @@ Below are a few projects I worked on as a student in Cornell Tech's Data Structu
 
 ### String Diffing and Respacing Using Dynamic Programming
 
-- Code
+- [diffing.py](https://github.com/barkadosh1/Cornell-Tech-Data-Structures-and-Algorithms/blob/master/diffing.py)
+- [respacing.py](https://github.com/barkadosh1/Cornell-Tech-Data-Structures-and-Algorithms/blob/master/respacing.py)
 
 ### Topic 2
 
